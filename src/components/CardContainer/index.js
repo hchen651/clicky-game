@@ -36,10 +36,6 @@ class CardContainer extends React.Component {
                     <Card onPokeSelect={this.handleClick}/>
                     <Card onPokeSelect={this.handleClick}/>
                     <Card onPokeSelect={this.handleClick}/>
-                    <Card onPokeSelect={this.handleClick}/>
-                    <Card onPokeSelect={this.handleClick}/>
-                    <Card onPokeSelect={this.handleClick}/>
-                    <Card onPokeSelect={this.handleClick}/>
                 </div>
                 
             </div>
