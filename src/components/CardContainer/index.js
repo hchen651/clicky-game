@@ -22,6 +22,7 @@ class CardContainer extends React.Component {
                 this.setState({ highScore : this.state.currentScore});
             }
             this.setState({ statusMessage : "You lost!" });
+            this.setState({ pokeArray: [] });
             this.setState({ currentScore : 0 });
         }
         else{
