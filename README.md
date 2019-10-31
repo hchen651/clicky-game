@@ -1,4 +1,5 @@
 Try it here: https://pokemon-clicky-game1.herokuapp.com/
+
 Please note that the first time load might take a while. The game features many high resolution images!
 
 # Pokemon Clicky Game
