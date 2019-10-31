@@ -1,29 +1,27 @@
-Try it here: https://project-imprint.herokuapp.com/
+Try it here: https://pokemon-clicky-game1.herokuapp.com/
+Please note that the first time load might take a while. The game features many high resolution images!
+
 # Pokemon Clicky Game
+A dynamic web based game to test your memory. Written using React.js.
 
-#### [__Imprint__](https://project-imprint.herokuapp.com/) is a business card collector and organizer that features dynamically displayed and updated information.
-
-## How Does It Work
-
-### Application Features
-- Create unique and secured user profiles
-- Add new business cards
-- Browse all stored business cards
-- View dynamic information of each card
-- Edit, update, and delete new business card information
+### How to Play:
+- Each time you click on a picture of a pokemon, a point will be added to your score.
+- However, a unique Pokemon must be selected each time. If any Pokemon is clicked more than once in a single round, the score is reset and the round is lost.
+- There are 300 different Pokemon in this game! Do you think you can catch 'em all?
 
 ### Packages & Libraries
-    - [MongoDB](https://www.mongodb.com/)
-    - [Mongoose](https://mongoosejs.com/)
-    - [Express.js](https://expressjs.com/)
-    - [Node.js](https://nodejs.org/en/)
-    - [Heroku](https://www.heroku.com/)
-    - [ReactJS](https://reactjs.org/)
-    - [Material UI](https://material-ui.com/)
-    - [FontAwesome](https://fontawesome.com/?from=io)
-    - [Google Fonts](https://fonts.google.com/)
-- Other
-    - [Google OCR API](https://cloud.google.com/vision/docs/ocr)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Express.js](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Heroku](https://www.heroku.com/)
+- [ReactJS](https://reactjs.org/)
+
+### Screenshots
+![](screenshot01.png)
 
 ### Notes
 This is an ongoing project. Comments and feedbacks are appreciated!
+
+### Credits
+All images and characters used in this application are owned by Nintendo. We do not claim ownership to any of the characters. This program was made as a project and is not to be sold.
