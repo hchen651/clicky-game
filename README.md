@@ -10,8 +10,6 @@ A dynamic web based game to test your memory. Written using React.js.
 - There are 300 different Pokemon in this game! Do you think you can catch 'em all?
 
 ### Packages & Libraries
-- [MongoDB](https://www.mongodb.com/)
-- [Mongoose](https://mongoosejs.com/)
 - [Express.js](https://expressjs.com/)
 - [Node.js](https://nodejs.org/en/)
 - [Heroku](https://www.heroku.com/)
